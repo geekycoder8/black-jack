@@ -1,0 +1,29 @@
+body{
+	font-family: "Roboto Serif", serif;
+	background-image: url("images/table.png");
+	background-size: cover;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+
+h1{
+	color: goldenrod;
+}
+
+#message-el{
+	font-style: italic;
+}
+
+.btn{
+	color: #016f32;
+	background: goldenrod;
+	padding: 5px 25px;
+	font-weight: bold;
+	font-size: 15px;
+	border: none;
+	border-radius: 3px;
+}
+
+
+
