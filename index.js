@@ -82,7 +82,7 @@ function newCard() {
 		sum += card
 		renderGame()
 	} else {
-		messageEl.textContent = "Cannot draw a new card, you're out of the game!"
+		alert("Cannot draw a new card, you're out of the game!")
 	}
 
 }
